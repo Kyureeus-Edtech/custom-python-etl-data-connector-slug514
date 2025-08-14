@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Environments
+.venv/
+venv/
+ENV/
+
+# Local config
+.env
+.env.*
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE/Editor
+.vscode/
+.idea/
+
+# Output
+etl_output/
